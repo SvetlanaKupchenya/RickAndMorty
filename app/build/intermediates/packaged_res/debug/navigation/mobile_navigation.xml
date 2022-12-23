@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_characters">
+
+    <fragment
+        android:id="@+id/navigation_characters"
+        android:name="com.example.rickandmorty.ui.characters.CharactersListFragment"
+        android:label="@string/characters"
+        tools:layout="@layout/fragment_characters_list" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_episodes"
+        android:name="com.example.rickandmorty.ui.episodes.EpisodesListFragment"
+        android:label="@string/episodes"
+        tools:layout="@layout/fragment_episodes_list"/>
+
+    <fragment
+        android:id="@+id/navigation_locations"
+        android:name="com.example.rickandmorty.ui.locations.LocationsListFragment"
+        android:label="@string/locations"
+        tools:layout="@layout/fragment_locations_list" />
+
+    <fragment
+        android:id="@+id/navigation_character_details"
+        android:name="com.example.rickandmorty.ui.characterdetails.CharacterDetailsFragment"
+        android:label="@string/сharacter_details"
+        tools:layout="@layout/fragment_character_details" />
+
+    <fragment
+        android:id="@+id/navigation_episode_details"
+        android:name="com.example.rickandmorty.ui.episodedetails.EpisodeDetailsFragment"
+        android:label="@string/episode_details"
+        tools:layout="@layout/fragment_episode_details" />
+
+    <fragment
+        android:id="@+id/navigation_location_details"
+        android:name="com.example.rickandmorty.ui.locationdetails.LocationDetailsFragment"
+        android:label="@string/location_details"
+        tools:layout="@layout/fragment_location_details" />
+</navigation>

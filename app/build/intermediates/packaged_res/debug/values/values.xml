@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_label">Rick and Morty</string>
+    <string name="app_name">RickAndMorty</string>
+    <string name="apply_filter">Apply filter</string>
+    <string name="characters">Characters</string>
+    <string name="episode_details">Episode details</string>
+    <string name="episodes">Episodes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">id:</string>
+    <string name="location_details">Location details</string>
+    <string name="locations">Locations</string>
+    <string name="name">name:</string>
+    <string name="search_episode_name">search episode name</string>
+    <string name="search_episode_number">search episode number</string>
+    <string name="search_gender">search gender</string>
+    <string name="search_location_dimension">search location dimension</string>
+    <string name="search_location_type">search location type</string>
+    <string name="search_locaton_name">search locaton name</string>
+    <string name="search_name">search name</string>
+    <string name="search_species">search species</string>
+    <string name="search_status">search status</string>
+    <string name="undo_filter">Undo filter</string>
+    <string name="сharacter_details">Character details</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+    <style name="Theme.RickAndMorty2" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        
+    </style>
+</resources>

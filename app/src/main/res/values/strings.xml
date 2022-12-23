@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="app_label">Rick and Morty</string>
+    <string name="characters">Characters</string>
+    <string name="episodes">Episodes</string>
+    <string name="locations">Locations</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="undo_filter">Undo filter</string>
+    <string name="search_gender">search gender</string>
+    <string name="search_species">search species</string>
+    <string name="search_status">search status</string>
+    <string name="search_name">search name</string>
+    <string name="apply_filter">Apply filter</string>
+    <string name="search_location_dimension">search location dimension</string>
+    <string name="search_location_type">search location type</string>
+    <string name="search_locaton_name">search locaton name</string>
+    <string name="search_episode_number">search episode number</string>
+    <string name="search_episode_name">search episode name</string>
+    <string name="сharacter_details">Character details</string>
+    <string name="id">id:</string>
+    <string name="name">name:</string>
+    <string name="episode_details">Episode details</string>
+    <string name="location_details">Location details</string>
+</resources>

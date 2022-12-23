@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.rickandmorty.ContentsTheSameUtilTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-12-23T07:07:24" hostname="DESKTOP-63RGEQA" time="0.035">
+  <properties/>
+  <testcase name="oldItem-id != newItem-id returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.033"/>
+  <testcase name="oldItem-origin != newItem-origin returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-status != newItem-status returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-type != newItem-type returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.001"/>
+  <testcase name="oldItem-gender != newItem-gender returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="(oldItem-id == newItem-id)&amp;&amp;(oldItem-name == newItem-name)&amp;&amp;(---) returns true" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-image != newItem-image returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-episode != newItem-episode returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-name != newItem-name returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-species != newItem-species returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-url != newItem-url returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-created != newItem-created returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <testcase name="oldItem-location != newItem-location returns false" classname="com.example.rickandmorty.ContentsTheSameUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

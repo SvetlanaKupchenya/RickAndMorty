@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\fragment_characters_list.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_characters_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\fragment_location_details.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_location_details.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\card_episode.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\card_episode.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\card_location.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\card_location.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\card_character.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\card_character.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\fragment_character_details.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_character_details.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\fragment_episode_details.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_episode_details.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\fragment_locations_list.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_locations_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-mergeDebugResources-48:\\layout\\fragment_episodes_list.xml",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_episodes_list.xml"
+    },
+    {
+        "merged": "com.example.rickandmorty.app-mergeDebugResources-48:/layout/fragment_location_details.xml",
+        "source": "com.example.rickandmorty.app-main-51:/layout/fragment_location_details.xml"
+    }
+]

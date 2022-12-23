@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_fragment_location_details.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_location_details.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_fragment_episode_details.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_episode_details.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rickandmorty.app-merged_res-49:/layout_fragment_location_details.xml.flat",
+        "source": "com.example.rickandmorty.app-main-51:/layout/fragment_location_details.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_fragment_character_details.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_character_details.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_fragment_episodes_list.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_episodes_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable_splash_screen.jpg.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\drawable\\splash_screen.jpg"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_card_episode.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\card_episode.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_card_character.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\card_character.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable_background_splash.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable_ic_baseline_list_alt_24.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\drawable\\ic_baseline_list_alt_24.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_fragment_characters_list.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_characters_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable_error.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\drawable\\error.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_fragment_locations_list.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\fragment_locations_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-pngs-44:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\layout_card_location.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\layout\\card_location.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-merged_res-49:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.rickandmorty.app-main-51:\\drawable\\ic_baseline_person_24.xml"
+    }
+]

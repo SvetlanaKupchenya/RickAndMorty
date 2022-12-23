@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.rickandmorty"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:5:5-66
+11-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:6:5-79
+12-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:8:5-34:19
+15        android:allowBackup="true"
+15-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.8.0] E:\Users\Admin\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+17        android:dataExtractionRules="@xml/data_extraction_rules"
+17-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:10:9-65
+18        android:debuggable="true"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:11:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:12:9-43
+21        android:label="@string/app_label"
+21-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:13:9-42
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:14:9-54
+23        android:supportsRtl="true"
+23-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:15:9-35
+24        android:theme="@style/Theme.RickAndMorty2" >
+24-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:16:9-51
+25        <activity
+25-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:18:9-32:20
+26            android:name="com.example.rickandmorty.MainActivity"
+26-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:19:13-41
+27            android:exported="true"
+27-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:21:13-36
+28            android:label="@string/app_name"
+28-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:22:13-45
+29            android:theme="@style/SplashTheme" >
+29-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:20:13-47
+30            <intent-filter>
+30-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:24:17-69
+31-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:26:17-77
+33-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:26:27-74
+34            </intent-filter>
+35
+36            <meta-data
+36-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:29:13-31:36
+37                android:name="android.app.lib_name"
+37-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:30:17-52
+38                android:value="" />
+38-->E:\Users\Admin\AndroidStudioProjects\RickAndMorty\app\src\main\AndroidManifest.xml:31:17-33
+39        </activity>
+40
+41        <provider
+41-->[com.squareup.picasso:picasso:2.71828] E:\Users\Admin\.gradle\caches\transforms-3\419b95aecf116023218856b0d50d7899\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+42            android:name="com.squareup.picasso.PicassoProvider"
+42-->[com.squareup.picasso:picasso:2.71828] E:\Users\Admin\.gradle\caches\transforms-3\419b95aecf116023218856b0d50d7899\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+43            android:authorities="com.example.rickandmorty.com.squareup.picasso"
+43-->[com.squareup.picasso:picasso:2.71828] E:\Users\Admin\.gradle\caches\transforms-3\419b95aecf116023218856b0d50d7899\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+44            android:exported="false" />
+44-->[com.squareup.picasso:picasso:2.71828] E:\Users\Admin\.gradle\caches\transforms-3\419b95aecf116023218856b0d50d7899\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+45
+46        <uses-library
+46-->[androidx.window:window:1.0.0] E:\Users\Admin\.gradle\caches\transforms-3\c1ba9eed255e14222e6e048478f14b43\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+47            android:name="androidx.window.extensions"
+47-->[androidx.window:window:1.0.0] E:\Users\Admin\.gradle\caches\transforms-3\c1ba9eed255e14222e6e048478f14b43\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+48            android:required="false" />
+48-->[androidx.window:window:1.0.0] E:\Users\Admin\.gradle\caches\transforms-3\c1ba9eed255e14222e6e048478f14b43\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+49        <uses-library
+49-->[androidx.window:window:1.0.0] E:\Users\Admin\.gradle\caches\transforms-3\c1ba9eed255e14222e6e048478f14b43\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+50            android:name="androidx.window.sidecar"
+50-->[androidx.window:window:1.0.0] E:\Users\Admin\.gradle\caches\transforms-3\c1ba9eed255e14222e6e048478f14b43\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+51            android:required="false" />
+51-->[androidx.window:window:1.0.0] E:\Users\Admin\.gradle\caches\transforms-3\c1ba9eed255e14222e6e048478f14b43\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.2.0] E:\Users\Admin\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.2.0] E:\Users\Admin\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+55            android:authorities="com.example.rickandmorty.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.2.0] E:\Users\Admin\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.2.0] E:\Users\Admin\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.2.0] E:\Users\Admin\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.2.0] E:\Users\Admin\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.2.0] E:\Users\Admin\.gradle\caches\transforms-3\a44fe69b7f5ac0e141d6bda2f04e92a5\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] E:\Users\Admin\.gradle\caches\transforms-3\baa824db3c1bec348e984fa25af19fb7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] E:\Users\Admin\.gradle\caches\transforms-3\baa824db3c1bec348e984fa25af19fb7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] E:\Users\Admin\.gradle\caches\transforms-3\baa824db3c1bec348e984fa25af19fb7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+63        </provider>
+64    </application>
+65
+66</manifest>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.locations.LocationsListFragment">
+
+    <EditText
+        android:id="@+id/search_locaton_name"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:hint="@string/search_locaton_name"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/search_location_type"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="@string/search_location_type"
+        app:layout_constraintEnd_toEndOf="@+id/search_locaton_name"
+        app:layout_constraintStart_toStartOf="@+id/search_locaton_name"
+        app:layout_constraintTop_toBottomOf="@+id/search_locaton_name" />
+
+    <EditText
+        android:id="@+id/search_location_dimension"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="@string/search_location_dimension"
+        app:layout_constraintEnd_toEndOf="@+id/search_location_type"
+        app:layout_constraintStart_toStartOf="@+id/search_location_type"
+        app:layout_constraintTop_toBottomOf="@+id/search_location_type" />
+
+    <Button
+        android:id="@+id/undo_search_location_button"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/undo_filter"
+        app:layout_constraintBottom_toBottomOf="@+id/search_location_dimension"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/search_locaton_name"
+        app:layout_constraintTop_toBottomOf="@+id/search_location_button" />
+
+    <Button
+        android:id="@+id/search_location_button"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:text="@string/apply_filter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/search_locaton_name" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_card_location"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/search_location_dimension"
+        app:spanCount="2"
+        tools:listitem="@layout/card_location"
+        tools:orientation="vertical">
+
+    </androidx.recyclerview.widget.RecyclerView>
+</androidx.constraintlayout.widget.ConstraintLayout>
